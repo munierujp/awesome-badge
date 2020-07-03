@@ -35,10 +35,3 @@ My favorite badge list
 ```md
 [![tested by Mocha](https://img.shields.io/badge/tested%20by-Mocha-%238d6748)](https://mochajs.org/)
 ```
-
-## ts-mocha
-[![tested by ts-mocha](https://img.shields.io/badge/tested%20by-ts--mocha-%238d6748)](https://github.com/piotrwitek/ts-mocha)
-
-```md
-[![tested by ts-mocha](https://img.shields.io/badge/tested%20by-ts--mocha-%238d6748)](https://github.com/piotrwitek/ts-mocha)
-```
