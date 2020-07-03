@@ -1,4 +1,4 @@
-# awesome-badges
+# awesome-badge
 My favorite badge list
 
 ## clasp
